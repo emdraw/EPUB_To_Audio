@@ -1,0 +1,5 @@
+ebooklib
+beautifulsoup4
+tqdm
+pydub
+pyttsx3
